@@ -21,5 +21,21 @@ img {max-width: 100%;}
 
 .slick-slide > img {width: 100%;}
 
-.fwln {background-color: #ededed;border-top: 1px solid #333;}
-.fwln .container {padding: 3em 5em;}
+.fwln {background-color: #ededed;border-top: 1px solid #333; background: #ededed;}
+.fwln .container {padding: 3em 55px;background: url(../img/fwln-bg.png) no-repeat 75px 30px;}
+.fwln .col-sm {padding-left: 103px;height: 142px;}
+.fwln h2 {font-size: 14px;    margin-top: 13px;}
+.fwln p {font-size: 12px;line-height: 180%;}
+
+.intro4 {text-align: center;padding: 40px 0;background-color: #fff;}
+.intro4 h2 {font-size: 18px;}
+.intro4 .col-sm {padding: 20px 30px;}
+.intro4 .col-sm:nth-child(odd)  {padding-top: 64px;}
+.intro4 .col-sm img {margin: 15px 0;}
+.intro4 p {text-align: left;font-size: 14px;}
+.intro4 .red {background-color: #b52026;}
+.intro4 .red {background-color: #b52026;color: #fff;}
+
+
+
+
