@@ -18,6 +18,7 @@ img {max-width: 100%;}
 .mb-7 {margin-bottom: 7em;}
 .mb-8 {margin-bottom: 8em;}
 .full-width {width: 100%;}
+.hr {height: 1px; width: 100%;background-color: #c7c7c7;margin: 15px 0;}
 
 .slick-slide > img {width: 100%;}
 
@@ -36,6 +37,10 @@ img {max-width: 100%;}
 .intro4 .red {background-color: #b52026;}
 .intro4 .red {background-color: #b52026;color: #fff;}
 
-
+footer {background-color: #000;color: #c7c7c7;}
+footer .container {padding: 80px 0 20px;}
+footer .indent {padding-left: 2em;}
+footer h5, footer p {font-size: 14px;}
+footer .yellow {color: #ffff02;font-size: 24px;}
 
 
